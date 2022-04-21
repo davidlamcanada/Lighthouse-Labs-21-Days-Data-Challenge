@@ -1,4 +1,4 @@
-# Lighthouse-Labs-21-Days-Data-Challenges
+# Lighthouse-Labs-21-Days-Data-Challenge
 Here are the 21-day data (Python) challenge questions! I posted them here so I can practice them in the future. I also kept the story plot to keeps the content exciting as if I was doing the challenge again.
 
 Plot: We are traveling with Dot around the world and applying our data skills to everyday scenarios.
