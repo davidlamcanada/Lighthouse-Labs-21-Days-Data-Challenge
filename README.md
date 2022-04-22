@@ -16,8 +16,8 @@ https://data-challenge.lighthouselabs.ca/
 8. DataFrames (Easy)
 9. Data Filtering (Easy)
 10. Group By (Medium)
-11. Waiting for upload
-12. Waiting for upload
+11. Advance Group By (Medium)
+12. Stack and Unstack (Medium)
 13. Waiting for upload
 14. Waiting for upload
 15. Waiting for upload
