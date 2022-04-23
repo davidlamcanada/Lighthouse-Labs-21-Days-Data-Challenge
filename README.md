@@ -7,4 +7,4 @@ We are traveling with Dot around the world and applying our data skills to every
 https://data-challenge.lighthouselabs.ca/
 
 ### Wiki
-Please refer to the [Wiki] (https://github.com/davidlamcanada/Lighthouse-Labs-21-Days-Data-Challenge/wiki) for the list of challenges.
+Please refer to the [Wiki](https://github.com/davidlamcanada/Lighthouse-Labs-21-Days-Data-Challenge/wiki) for the list of challenges.
